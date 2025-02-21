@@ -1,6 +1,6 @@
 ##Ola, eu sou o Pedro
-- 🌱 Estudando ReactJS, Typescript
-- 📫 Contate-me no email: danyllo.aniceto.carvalho@gmail.com
+- 🌱 Cursando Analise e desenvolvimento de sistemas
+- 📫 Contate-me no email: phcruzvilasboas@gmail.com
  
 <div align="center">
 <a href="https://github.com/pedro-cruzz">
