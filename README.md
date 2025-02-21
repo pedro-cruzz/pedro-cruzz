@@ -1,36 +1,37 @@
-##Ola, eu sou o Pedro
-- 🌱 Cursando Analise e desenvolvimento de sistemas
-- 📫 Contate-me no email: phcruzvilasboas@gmail.com
- 
-<div align="center">
-<a href="https://github.com/pedro-cruzz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-cruzz&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-cruzz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
-<div style="display: inline_block"><br>
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-</div>
- 
+# 💻 Olá, eu sou o Pedro!
+
+Seja bem-vindo(a) ao meu GitHub! 🚀
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**;
+- 🐍 Experiência com **Python** e **SQL**;
+- 🌐 Atualmente aprendendo **HTML, CSS e JavaScript**;
+- 🚀 Sempre buscando evoluir e aprender novas tecnologias.
+
+## 🔧 Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📈 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+
+🚀 Bora codar e construir coisas incríveis juntos! 🚀
 
  
 
 
-<!--
-**pedro-cruzz/pedro-cruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
