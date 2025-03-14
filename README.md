@@ -26,7 +26,7 @@ Seja bem-vindo(a) ao meu GitHub! 🚀
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phcruzvilasboas@gmail.com)
 
 🚀 Bora codar e construir coisas incríveis juntos! 🚀
 
