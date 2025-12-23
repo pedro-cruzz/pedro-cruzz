@@ -35,7 +35,7 @@ Aqui você pode mostrar seus projetos com **miniaturas reais e links diretos**. 
   <table>
     <tr>
       <td align="center">
-        <img src="https://via.placeholder.com/150" width="150px" alt="Projeto1"><br>
+        <img src="" width="150px" alt="Projeto1"><br>
         <b>Sistema de Tarefas</b><br>
         Python + Flask + PostgreSQL<br>
         <a href="https://github.com/SEU_USERNAME/projeto1">Ver Projeto</a>
@@ -47,9 +47,9 @@ Aqui você pode mostrar seus projetos com **miniaturas reais e links diretos**. 
         <a href="https://github.com/SEU_USERNAME/projeto2">Ver Projeto</a>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/150" width="150px" alt="Capitalize Invests"><br>
+        <img src="https://github.com/pedro-cruzz/Investiment_Front-end/blob/main/assets/img/capitalizeExemplo.png" width="200px" alt="Capitalize Invests"><br>
         <b>Sistema de gerenciamneto de investimentos</b><br>
-        Python + Flask<br>
+        HTML, CSS e JS<br>
         <a href="https://github.com/pedro-cruzz/Investiment_Front-end.git">Ver Projeto</a>
       </td>
     </tr>
@@ -59,8 +59,6 @@ Aqui você pode mostrar seus projetos com **miniaturas reais e links diretos**. 
 ---
 
 ## 📈 Minhas Estatísticas
-
-Como o Vercel está com problemas, usamos **badges estáticos de Shields.io**:
 
 ![Repositórios Públicos](https://img.shields.io/badge/Repositórios-Públicos-blue)  
 ![Linguagens Mais Usadas](https://img.shields.io/badge/Linguagens-Python%2CJS%2CHTML-blue)  
