@@ -29,8 +29,6 @@ Sou apaixonado por tecnologia e sempre em busca de aprender coisas novas.
 
 ## 📂 Projetos em Destaque
 
-Aqui você pode mostrar seus projetos com **miniaturas reais e links diretos**. Exemplo:  
-
 <div align="center">
   <table>
     <tr>
