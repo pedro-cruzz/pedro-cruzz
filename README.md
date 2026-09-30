@@ -12,15 +12,6 @@
   <a href="#contato"><strong>Contato</strong></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-henrique-vilas-boas"><img src="assets/link-linkedin.svg" alt="LinkedIn" height="38"></a>
-  <a href="mailto:phcruzvilasboas@gmail.com"><img src="assets/link-email.svg" alt="Enviar e-mail" height="38"></a>
-  <a href="https://www.instagram.com/peedro.cruzz"><img src="assets/link-instagram.svg" alt="Instagram" height="38"></a>
-  <a href="https://wa.me/5535998603656"><img src="assets/link-whatsapp.svg" alt="Conversar pelo WhatsApp" height="38"></a>
-  <!-- Quando publicar o portfólio, envolva o selo abaixo em uma tag <a href="URL_DO_PORTFOLIO">. -->
-  <img src="assets/link-portfolio.svg" alt="Portfólio em breve" height="38">
-</p>
-
 <a name="sobre"></a>
 
 ## 1- Sobre mim
