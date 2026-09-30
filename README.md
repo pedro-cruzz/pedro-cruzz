@@ -2,7 +2,7 @@
 <h1 align="center">Olá, eu sou o Pedro! 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvimento web · Python · Interfaces e experiências 3D</strong>
+  <strong>Desenvolvimento de software · Python · Sistemas de gestão</strong>
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 ## 1- Sobre mim
 
-Sou **Pedro Henrique**, estudante de **Análise e Desenvolvimento de Sistemas**. Desenvolvo aplicações web e tenho interesse especial em **back-end**, modelagem de dados e no caminho que uma informação percorre até chegar à interface.
+Sou **Pedro Henrique**, formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **Sistemas de Informação**. Desenvolvo sistemas de gestão e aplicações web, com foco em back-end, modelagem de dados e interfaces claras para processos reais.
 
-Meus projetos passam por **gestão operacional, serviços, educação e experiências em 3D**. Gosto de entender o problema, organizar suas regras e construir uma aplicação que faça sentido para quem vai usá-la — incluindo o cuidado com a apresentação visual.
+No **IJA System**, do qual sou coautor, ajudei a substituir planilhas por um fluxo centralizado de solicitações de voo, equipes, ordens de serviço, frota e relatórios. Regras de acesso e integrações de mapas e endereços apoiam a operação diária.
 
-No **IJA System**, participo em coautoria de um sistema usado em operações reais. No **Pose Lab**, exploro outra parte do desenvolvimento: transformar modelos tridimensionais em uma experiência de descoberta e estudo.
+No **HigiFlow**, a gestão de serviços vai do orçamento à execução. Trabalho com **Python, Flask, Django e bancos relacionais** no back-end e com **React e Next.js** nas interfaces, procurando entender cada rotina antes de definir telas e regras.
 
 
 
@@ -54,7 +54,7 @@ APIs, regras de negócio e persistência com SQLAlchemy e Django ORM. Também ut
 
 Componentes, formulários, navegação e layouts responsivos, com atenção à identidade visual de cada projeto.
 
-**3D e outras explorações**
+**Outras tecnologias**
 
 <p>
   <img src="assets/tech-threejs.svg" alt="Three.js" height="34">
