@@ -166,7 +166,7 @@ Para conversar sobre projetos, trocar experiências ou apresentar uma oportunida
 - <img src="assets/icon-email.svg" width="20" height="20" alt=""> **E-mail:** [phcruzvilasboas@gmail.com](mailto:phcruzvilasboas@gmail.com)
 - <img src="assets/icon-instagram.svg" width="20" height="20" alt=""> **Instagram:** [@peedro.cruzz](https://www.instagram.com/peedro.cruzz)
 - <img src="assets/icon-whatsapp.svg" width="20" height="20" alt=""> **WhatsApp:** [Iniciar conversa](https://wa.me/5535998603656)
-- <img src="assets/icon-portfolio.svg" width="20" height="20" alt=""> **Portfólio:** [Pedro Henrique dev](https://pedro-cruzz.github.io/portfolio_dev/). <!-- Quando publicar, troque "em breve" por [Acessar portfólio](URL_DO_PORTFOLIO). -->
+- <img src="assets/icon-portfolio.svg" width="20" height="20" alt=""> **Portfólio:** [Acessar portfólio](https://pedro-cruzz.github.io/portfolio_dev/) 
 
 ---
 
